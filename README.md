@@ -15,7 +15,7 @@ Enables the user to book movie tickets based on what seats are available while s
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Registration form page <br/>
+Movie booking page <br/>
 <img src="https://i.imgur.com/f9egad8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
